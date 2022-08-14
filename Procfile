@@ -1,0 +1,1 @@
+web: gunicorn debt_management.wsgi
